@@ -1,5 +1,5 @@
 section .data
-    message db 'Hello, Assembler!', 0
+    message db 'Hello, assembly!', 0
 
 section .text
     global _start
